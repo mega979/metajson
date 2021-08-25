@@ -1,0 +1,33 @@
+{
+    "status": true,
+    "message": "This is a message.",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "all_videos": [
+      {
+        "listId": "PLgC4sCLvt8eANCqNEq1GmFsQFUOcXhYvu",
+        "title": "ဟင်းချက်နည်းများ(1)",
+        "thumbnail": "https://lh3.googleusercontent.com/-lyn3Pd5bpo4/YCOGIJRncrI/AAAAAAAAA5k/0dFsFxC3hJUjj4--DqUuVkOH26lI_nIlACLcBGAsYHQ/s1600/IMG_ORG_1612940821150.jpeg",
+        "count": 35
+      },
+      {
+        "listId": "PLGkXzDL61BuYJZyW1q-0wWDPArGY9u7-U",
+        "title": "ဟင်းချက်နည်းများ(2)",
+        "thumbnail": "https://img.youtube.com/vi/GW5KAPWsXRY/hqdefault.jpg",
+        "count": 69
+      },
+         {
+        "listId": "PLjpyMf5U_a4QIZd5jaozuwDW36ehH_VoN",
+        "title": "ဟင်းချက်နည်းများ(3)",
+        "thumbnail": "https://img.youtube.com/vi/W1DQHgM2wJs/hqdefault.jpg",
+        "count": 23
+      },
+      {
+        "listId": "PL0ffkRQ8orbLdyu0J_PLwwvzk32DMYrdB",
+        "title": "ဟင်းချက်နည်းများ(4)",
+        "thumbnail": "https://img.youtube.com/vi/GW5KAPWsXRY/hqdefault.jpg",
+        "count": 69
+      }
+    ]
+  }
